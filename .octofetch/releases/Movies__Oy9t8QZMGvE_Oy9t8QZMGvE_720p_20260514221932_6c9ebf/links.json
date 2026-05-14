@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1710",
+  "folder": "Movies__Oy9t8QZMGvE_Oy9t8QZMGvE_720p_20260514221932_6c9ebf",
+  "base_name": "Movies__Oy9t8QZMGvE_Oy9t8QZMGvE_720p_20260514221932_6c9ebf.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/tag/co-releases-v1-1710",
+  "files": [
+    {
+      "name": "Movies__Oy9t8QZMGvE_Oy9t8QZMGvE_720p_20260514221932_6c9ebf.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/download/co-releases-v1-1710/Movies__Oy9t8QZMGvE_Oy9t8QZMGvE_720p_20260514221932_6c9ebf.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/assets/420504679",
+      "id": 420504679,
+      "size": 18141085,
+      "download_count": 0
+    }
+  ]
+}
