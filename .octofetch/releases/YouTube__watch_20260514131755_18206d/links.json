@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4201",
+  "folder": "YouTube__watch_20260514131755_18206d",
+  "base_name": "SPX_Fractal_Analysis_Scaling_Predicting_Price_Movement_rN3aX44OfsQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/tag/co-releases-v1-4201",
+  "files": [
+    {
+      "name": "SPX_Fractal_Analysis_Scaling_Predicting_Price_Movement_rN3aX44OfsQ_720p.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/download/co-releases-v1-4201/SPX_Fractal_Analysis_Scaling_Predicting_Price_Movement_rN3aX44OfsQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/assets/420174545",
+      "id": 420174545,
+      "size": 25749164,
+      "download_count": 0
+    }
+  ]
+}
