@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2080",
+  "folder": "YouTube__watch_20260514143529_6f3ea8",
+  "base_name": "VPN_EQwa-mZitJQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/tag/co-releases-v1-2080",
+  "files": [
+    {
+      "name": "VPN_EQwa-mZitJQ_720p.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/download/co-releases-v1-2080/VPN_EQwa-mZitJQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/assets/420225493",
+      "id": 420225493,
+      "size": 24644413,
+      "download_count": 0
+    }
+  ]
+}
