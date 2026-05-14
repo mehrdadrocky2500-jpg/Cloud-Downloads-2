@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1288",
+  "folder": "YouTube__watch_20260514134032_cf451c",
+  "base_name": "Zeus_Arma_3_gJav8C2rQGw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/tag/co-releases-v1-1288",
+  "files": [
+    {
+      "name": "Zeus_Arma_3_gJav8C2rQGw_720p.mp4",
+      "url": "https://github.com/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/download/co-releases-v1-1288/Zeus_Arma_3_gJav8C2rQGw_720p.mp4",
+      "api_url": "https://api.github.com/repos/mehrdadrocky2500-jpg/Cloud-Downloads-2/releases/assets/420190807",
+      "id": 420190807,
+      "size": 380707375,
+      "download_count": 0
+    }
+  ]
+}
